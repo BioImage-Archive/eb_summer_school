@@ -1,0 +1,6 @@
+[submodule "pytorch_tutorial"]
+	path = pytorch_tutorial
+	url = https://github.com/BioImage-Archive/pytorch_tutorial
+[submodule "bia-training"]
+	path = bia-training
+	url = https://github.com/BioImage-Archive/bia-training
